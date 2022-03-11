@@ -1,5 +1,8 @@
 # breast-cancer-diagnosis-predictor
-A simple Artificial Neural Network model, trained with real breast cancer data, that can predict the outcome for breast cancer diagnosis.<br>
+A simple Deep Learning (ANN) model, trained with real breast cancer data, that can predict the outcome for breast cancer diagnosis.
+
+Algorithm: Artificial Neural Network (ANN)<br>
+Data Set: [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)<br>
 Python modules used:
 
 |Module |Description|
