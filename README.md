@@ -11,5 +11,5 @@ Python modules used:
 | Pandas | For data analysis and data cleaning |
 | Matplotlib | For data visualization  |
 | Seaborn | For advanced data visualization |
-| Scikit Learn | For splitting & scaling data, and showing prediction accuracy & test score |
+| Scikit-learn | For splitting & scaling data, and showing prediction accuracy & test score |
 | Keras | For making the deep learning model |
